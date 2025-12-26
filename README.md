@@ -1,5 +1,8 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
 
+
+# Name:PARTHASARATHY J 
+# REGISTER NUMBER:25019024
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -70,6 +73,11 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
+**CIRCUIT DIAGRAM**
+
+<img width="453" height="519" alt="530224907-89a5d3b2-b9ac-4612-b349-80170f2cff14" src="https://github.com/user-attachments/assets/43a54651-7333-440d-ad7a-b02192f39796" />
+
+
 **TABULAR COLUMN: 1**
 To measure I L
 
@@ -87,8 +95,15 @@ Vi (volts)	RTh (Ω)
 To measure IN or Isc
 
 Vi (volts)	IN (amps)
+
+<img width="478" height="289" alt="530224773-c15ad419-625e-428c-8ffa-6a832af77281" src="https://github.com/user-attachments/assets/3d4d30ce-68e4-4778-bc95-8ed8f9b49943" />
+
 	
 **MODEL CALCULATION:**
+
+<img width="447" height="834" alt="530224999-f3337bb9-15d3-4f92-bbb0-4bad34faddea" src="https://github.com/user-attachments/assets/f5adedc3-8939-4786-a992-435c769106fa" />
+
+
 
 Practical value of IL (from tabulation 1) =2.3mA
 
